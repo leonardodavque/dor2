@@ -1,0 +1,20 @@
+#firstBlock {
+    background-color: red;
+}
+
+#secondBlock {
+    background-color: blue;
+}
+#foot{
+    background-color: grey; 
+}
+
+
+/*to control the moment of responsive*/
+@media (max-width:576px){
+    #foot{
+        background-color: green; 
+        
+    }
+
+}
