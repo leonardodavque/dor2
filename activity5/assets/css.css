@@ -1,10 +1,19 @@
 #firstBlock {
     background-color: red;
+    
 }
 
 #secondBlock {
     background-color: blue;
+    
+    
 }
+/* remove point from li*/
+#firstBlock, #secondBlock{
+    list-style: none;
+}
+
+
 #foot{
     background-color: grey; 
 }
