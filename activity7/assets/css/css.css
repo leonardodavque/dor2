@@ -1,0 +1,54 @@
+#principalContainer {
+    background: rgb(216, 214, 214);
+}
+.albumP{
+    text-align:center;
+}
+
+.cardP{
+    height: 100px;
+}
+
+img {
+   width: 90%;
+   height: 250px;
+}
+
+
+
+
+/*to control the moment of responsive*/
+@media (max-width:576px){
+  
+    img{
+        width: 100%;
+        object-fit: fill;
+        
+      }
+     
+      
+    
+}
+
+@media (max-width:720px){
+  
+    img{
+       
+        object-fit: fill;
+        
+      }
+     
+    
+}
+
+@media (max-width:960px){
+  
+    img{
+       
+        object-fit: fill;
+        
+      }
+
+}
+
+
