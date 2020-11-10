@@ -30,25 +30,6 @@ img {
     
 }
 
-@media (max-width:720px){
-  
-    img{
-       
-        object-fit: fill;
-        
-      }
-     
-    
-}
 
-@media (max-width:960px){
-  
-    img{
-       
-        object-fit: fill;
-        
-      }
-
-}
 
 
